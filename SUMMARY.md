@@ -20,6 +20,7 @@
 * [Power Tree & Circuit](hardware/power-tree-and-circuit.md)
 * [Repair Guide](hardware/repair-guide.md)
 * [Leaked NVIDIA A100 Schematic](hardware/leaked-nvidia-a100-schematic.md)
+* [Detailed Board Pictures](hardware/detailed-board-pictures.md)
 
 ## Benchmarks & Performance
 
